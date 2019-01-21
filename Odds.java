@@ -1,6 +1,6 @@
 public class Odds {
     
-    public String evensOnly(String original) {
+    public String oddsOnly(String original) {
         if (original == null || original == "") {
             return null;
         }
